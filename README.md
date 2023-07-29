@@ -1,5 +1,5 @@
 # Boilerplate para iniciantes
 
-- Instalação do Tailwind CSS com Vite (https://tailwindcss.com/docs/guides/vite)
-- Tailwind CSS (https://tailwindcss.com/)
-- React Router Dom (https://reactrouter.com/en/main)
+- <a href="https://tailwindcss.com/docs/guides/vite" target="_blank">Instalação do Tailwind CSS com Vite </a>
+- <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+- <a href="https://reactrouter.com/en/main" target="_blank">React Router Dom</a>
