@@ -11,3 +11,22 @@
 ## Htaccess utilizado na aula de hospedagem compartilhada
 
 - <a href="https://youtu.be/vx0BQiRZV34" target="_blank">Assistir a Aula</a>
+
+```
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Defina o pacote “ea-php81” como a linguagem padrão de programação “PHP”.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+
+```
