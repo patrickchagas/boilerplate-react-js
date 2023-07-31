@@ -1,8 +1,13 @@
-# React + Vite
+# Boilerplate para iniciantes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- <a href="https://tailwindcss.com/docs/guides/vite" target="_blank">Instalação do Tailwind CSS com Vite </a>
+- <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+- <a href="https://reactrouter.com/en/main" target="_blank">React Router Dom</a>
 
-Currently, two official plugins are available:
+## Aula criando o boilerplate
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- <a href="https://www.youtube.com/watch?v=Rn7KJWr7VJY&ab_channel=PatrickChagas" target="_blank">Assistir a Aula</a>
+
+## Htaccess utilizado na aula de hospedagem compartilhada
+
+- <a href="https://youtu.be/vx0BQiRZV34" target="_blank">Assistir a Aula</a>
